@@ -1,0 +1,2 @@
+This project simulates an ant colony to find the shortest path between two points in a graph (in this case, a 2-dimentional grid)
+http://en.wikipedia.org/wiki/Ant_colony_optimization
